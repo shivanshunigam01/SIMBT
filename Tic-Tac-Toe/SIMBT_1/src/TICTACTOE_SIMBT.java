@@ -1,5 +1,6 @@
-import java.awt.EventQueue;
+//This code is contributed by shivanshu nigam
 
+import java.awt.EventQueue;
 import javax.swing.JFrame;
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
@@ -177,7 +178,7 @@ public class TICTACTOE_SIMBT {
 		
 	}
 	
-	
+	//This code is contributed by shivanshu nigam
 	
 	
 	//FUCNTION TO START THE GAME BY CHOSSING X OR O FROM PLAYER 1
@@ -559,3 +560,5 @@ public class TICTACTOE_SIMBT {
 	}
 
 }
+
+//This code is contributed by shivanshu nigam
